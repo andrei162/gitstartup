@@ -1,0 +1,1 @@
+Salut, aici voi testa functionalitatile git-ului pe repository local.
